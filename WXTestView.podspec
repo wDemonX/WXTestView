@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
     git: 'https://github.com/wDemonX/WXTestView.git'
   }
 
-    s.source_files = "WXTestView/*"
+    s.source_files = "/*"
 
   
 end
